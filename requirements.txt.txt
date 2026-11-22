@@ -1,0 +1,5 @@
+streamlit==1.44.0
+langgraph>=0.3.0
+langchain-openai>=0.3.0
+pymupdf>=1.25.0
+pydantic>=2.10.0
